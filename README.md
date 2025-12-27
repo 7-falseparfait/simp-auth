@@ -2,7 +2,7 @@
 
 Watch the complete authentication flow in action—signup, signin, session management, and protected routes.
 
-![Demo](./better-auth.mp4)
+[![Demo](./better-auth.mp4)](https://github.com/user-attachments/assets/e6a385e8-18aa-4730-9513-c69133568ed1)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
